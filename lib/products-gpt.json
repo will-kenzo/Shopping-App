@@ -1,0 +1,2002 @@
+[
+    {
+      "id": 1,
+      "name": "Apple iPhone 13",
+      "price": 799.99,
+      "category": "Electronics",
+      "description": "The Apple iPhone 13 is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user1a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user1b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "price": 699.99,
+      "category": "Electronics",
+      "description": "The Samsung Galaxy S21 is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user2a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user2b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-1000XM4 Headphones",
+      "price": 348.00,
+      "category": "Electronics",
+      "description": "The Sony WH-1000XM4 Headphones are crafted with premium materials and state-of-the-art technology. They deliver excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user3a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user3b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Dell XPS 13 Laptop",
+      "price": 999.99,
+      "category": "Electronics",
+      "description": "The Dell XPS 13 Laptop is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user4a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user4b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "HP Envy Printer",
+      "price": 199.99,
+      "category": "Electronics",
+      "description": "The HP Envy Printer is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user5a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user5b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Bose QuietComfort 35 II",
+      "price": 299.99,
+      "category": "Electronics",
+      "description": "The Bose QuietComfort 35 II is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user6a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user6b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "LG 55-inch OLED TV",
+      "price": 1499.99,
+      "category": "Electronics",
+      "description": "The LG 55-inch OLED TV is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user7a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user7b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Canon EOS Rebel T7 Camera",
+      "price": 449.99,
+      "category": "Electronics",
+      "description": "The Canon EOS Rebel T7 Camera is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user8a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user8b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Microsoft Surface Pro 7",
+      "price": 899.99,
+      "category": "Electronics",
+      "description": "The Microsoft Surface Pro 7 is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user9a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user9b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Amazon Echo Dot",
+      "price": 49.99,
+      "category": "Electronics",
+      "description": "The Amazon Echo Dot is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user10a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user10b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Bosch Cordless Drill",
+      "price": 129.99,
+      "category": "Home Tools",
+      "description": "The Bosch Cordless Drill is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user11a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user11b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "DeWalt Hammer Drill",
+      "price": 159.99,
+      "category": "Home Tools",
+      "description": "The DeWalt Hammer Drill is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user12a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user12b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Black & Decker Jigsaw",
+      "price": 89.99,
+      "category": "Home Tools",
+      "description": "The Black & Decker Jigsaw is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user13a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user13b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Makita Circular Saw",
+      "price": 199.99,
+      "category": "Home Tools",
+      "description": "The Makita Circular Saw is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user14a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user14b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Ryobi Impact Driver",
+      "price": 79.99,
+      "category": "Home Tools",
+      "description": "The Ryobi Impact Driver is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user15a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user15b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Milwaukee M12 Drill",
+      "price": 139.99,
+      "category": "Home Tools",
+      "description": "The Milwaukee M12 Drill is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user16a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user16b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Stanley Hand Tool Set",
+      "price": 59.99,
+      "category": "Home Tools",
+      "description": "The Stanley Hand Tool Set is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user17a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user17b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Craftsman Socket Set",
+      "price": 99.99,
+      "category": "Home Tools",
+      "description": "The Craftsman Socket Set is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user18a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user18b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Kobalt Power Sander",
+      "price": 119.99,
+      "category": "Home Tools",
+      "description": "The Kobalt Power Sander is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user19a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user19b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Ridgid Wet/Dry Vacuum",
+      "price": 149.99,
+      "category": "Home Tools",
+      "description": "The Ridgid Wet/Dry Vacuum is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user20a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user20b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "KitchenAid Stand Mixer",
+      "price": 379.99,
+      "category": "Kitchen Utensils",
+      "description": "The KitchenAid Stand Mixer is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user21a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user21b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Cuisinart Food Processor",
+      "price": 249.99,
+      "category": "Kitchen Utensils",
+      "description": "The Cuisinart Food Processor is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user22a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user22b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Breville Espresso Machine",
+      "price": 499.99,
+      "category": "Kitchen Utensils",
+      "description": "The Breville Espresso Machine is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user23a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user23b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "All-Clad Stainless Steel Pan",
+      "price": 99.99,
+      "category": "Kitchen Utensils",
+      "description": "The All-Clad Stainless Steel Pan is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user24a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user24b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Instant Pot Duo",
+      "price": 89.99,
+      "category": "Kitchen Utensils",
+      "description": "The Instant Pot Duo is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user25a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user25b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Vitamix Blender",
+      "price": 399.99,
+      "category": "Kitchen Utensils",
+      "description": "The Vitamix Blender is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user26a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user26b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Oster Toaster Oven",
+      "price": 129.99,
+      "category": "Kitchen Utensils",
+      "description": "The Oster Toaster Oven is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user27a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user27b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Hamilton Beach Slow Cooker",
+      "price": 59.99,
+      "category": "Kitchen Utensils",
+      "description": "The Hamilton Beach Slow Cooker is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user28a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user28b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Calphalon Nonstick Fry Pan",
+      "price": 79.99,
+      "category": "Kitchen Utensils",
+      "description": "The Calphalon Nonstick Fry Pan is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user29a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user29b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Le Creuset Dutch Oven",
+      "price": 349.99,
+      "category": "Kitchen Utensils",
+      "description": "The Le Creuset Dutch Oven is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user30a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user30b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "IKEA Poäng Armchair",
+      "price": 99.99,
+      "category": "Home accessories/ home decor",
+      "description": "The IKEA Poäng Armchair is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user31a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user31b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Philips Hue Smart Bulb",
+      "price": 49.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Philips Hue Smart Bulb is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user32a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user32b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Nest Thermostat",
+      "price": 229.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Nest Thermostat is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user33a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user33b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "West Elm Abstract Wall Art",
+      "price": 199.99,
+      "category": "Home accessories/ home decor",
+      "description": "The West Elm Abstract Wall Art is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user34a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user34b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Pottery Barn Throw Pillow",
+      "price": 39.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Pottery Barn Throw Pillow is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user35a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user35b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Target Faux Fur Rug",
+      "price": 89.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Target Faux Fur Rug is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user36a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user36b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Crate & Barrel Ceramic Vase",
+      "price": 59.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Crate & Barrel Ceramic Vase is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user37a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user37b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "CB2 Modern Floor Lamp",
+      "price": 129.99,
+      "category": "Home accessories/ home decor",
+      "description": "The CB2 Modern Floor Lamp is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user38a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user38b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Anthropologie Decorative Mirror",
+      "price": 149.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Anthropologie Decorative Mirror is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user39a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user39b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Home Depot LED Desk Lamp",
+      "price": 39.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Home Depot LED Desk Lamp is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user40a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user40b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "JBL Wireless Earbuds",
+      "price": 99.99,
+      "category": "Electronics",
+      "description": "The JBL Wireless Earbuds are crafted with premium materials and state-of-the-art technology. They deliver excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user41a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user41b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Bose SoundSport Earbuds",
+      "price": 129.99,
+      "category": "Electronics",
+      "description": "The Bose SoundSport Earbuds are crafted with premium materials and state-of-the-art technology. They deliver excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user42a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user42b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Sennheiser Momentum True Wireless",
+      "price": 249.99,
+      "category": "Electronics",
+      "description": "The Sennheiser Momentum True Wireless earbuds are crafted with premium materials and state-of-the-art technology. They deliver excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user43a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user43b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Sony WF-1000XM4 Earbuds",
+      "price": 279.99,
+      "category": "Electronics",
+      "description": "The Sony WF-1000XM4 Earbuds are crafted with premium materials and state-of-the-art technology. They deliver excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user44a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user44b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Beats Powerbeats Pro",
+      "price": 249.99,
+      "category": "Electronics",
+      "description": "The Beats Powerbeats Pro are crafted with premium materials and state-of-the-art technology. They deliver excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user45a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user45b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "OnePlus 9 Pro",
+      "price": 969.99,
+      "category": "Electronics",
+      "description": "The OnePlus 9 Pro is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user46a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user46b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Google Pixel 6",
+      "price": 599.99,
+      "category": "Electronics",
+      "description": "The Google Pixel 6 is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user47a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user47b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Motorola Edge",
+      "price": 699.99,
+      "category": "Electronics",
+      "description": "The Motorola Edge is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user48a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user48b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Nokia 8.3",
+      "price": 479.99,
+      "category": "Electronics",
+      "description": "The Nokia 8.3 is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user49a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user49b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "LG Velvet",
+      "price": 599.99,
+      "category": "Electronics",
+      "description": "The LG Velvet is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user50a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user50b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Ryobi Electric Screwdriver",
+      "price": 39.99,
+      "category": "Home Tools",
+      "description": "The Ryobi Electric Screwdriver is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user51a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user51b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Black & Decker Drill Combo",
+      "price": 89.99,
+      "category": "Home Tools",
+      "description": "The Black & Decker Drill Combo is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user52a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user52b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Bosch Angle Grinder",
+      "price": 69.99,
+      "category": "Home Tools",
+      "description": "The Bosch Angle Grinder is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user53a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user53b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "DeWalt Reciprocating Saw",
+      "price": 129.99,
+      "category": "Home Tools",
+      "description": "The DeWalt Reciprocating Saw is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user54a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user54b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Makita Impact Wrench",
+      "price": 149.99,
+      "category": "Home Tools",
+      "description": "The Makita Impact Wrench is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user55a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user55b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Cuisinart Air Fryer",
+      "price": 119.99,
+      "category": "Kitchen Utensils",
+      "description": "The Cuisinart Air Fryer is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user56a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user56b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Hamilton Beach Toaster",
+      "price": 29.99,
+      "category": "Kitchen Utensils",
+      "description": "The Hamilton Beach Toaster is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user57a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user57b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Oster Electric Kettle",
+      "price": 49.99,
+      "category": "Kitchen Utensils",
+      "description": "The Oster Electric Kettle is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user58a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user58b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Breville Sandwich Maker",
+      "price": 39.99,
+      "category": "Kitchen Utensils",
+      "description": "The Breville Sandwich Maker is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user59a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user59b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Calphalon Knife Set",
+      "price": 199.99,
+      "category": "Kitchen Utensils",
+      "description": "The Calphalon Knife Set is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user60a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user60b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "IKEA Lack Coffee Table",
+      "price": 59.99,
+      "category": "Home accessories/ home decor",
+      "description": "The IKEA Lack Coffee Table is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user61a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user61b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "West Elm Bookcase",
+      "price": 249.99,
+      "category": "Home accessories/ home decor",
+      "description": "The West Elm Bookcase is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user62a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user62b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Target Accent Chair",
+      "price": 129.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Target Accent Chair is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user63a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user63b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "CB2 Modern Rug",
+      "price": 179.99,
+      "category": "Home accessories/ home decor",
+      "description": "The CB2 Modern Rug is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user64a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user64b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Crate & Barrel Wall Clock",
+      "price": 69.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Crate & Barrel Wall Clock is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user65a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user65b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Anthropologie Floor Cushion",
+      "price": 49.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Anthropologie Floor Cushion is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user66a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user66b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Pottery Barn Area Rug",
+      "price": 299.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Pottery Barn Area Rug is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user67a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user67b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Home Depot Storage Shelf",
+      "price": 89.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Home Depot Storage Shelf is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user68a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user68b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "IKEA MALM Dresser",
+      "price": 199.99,
+      "category": "Home accessories/ home decor",
+      "description": "The IKEA MALM Dresser is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user69a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user69b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "CB2 Accent Mirror",
+      "price": 99.99,
+      "category": "Home accessories/ home decor",
+      "description": "The CB2 Accent Mirror is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user70a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user70b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "B&O Beoplay E8",
+      "price": 279.99,
+      "category": "Electronics",
+      "description": "The B&O Beoplay E8 is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user71a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user71b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Jabra Elite 75t",
+      "price": 149.99,
+      "category": "Electronics",
+      "description": "The Jabra Elite 75t is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user72a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user72b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Apple iPhone 13 Pro",
+      "price": 999.99,
+      "category": "Electronics",
+      "description": "The Apple iPhone 13 Pro is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user73a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user73b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Samsung Galaxy Note 20",
+      "price": 899.99,
+      "category": "Electronics",
+      "description": "The Samsung Galaxy Note 20 is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user74a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user74b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "price": 1299.99,
+      "category": "Electronics",
+      "description": "The Lenovo ThinkPad X1 Carbon is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user75a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user75b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "HP Spectre x360",
+      "price": 1099.99,
+      "category": "Electronics",
+      "description": "The HP Spectre x360 is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user76a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user76b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Dell Inspiron 15",
+      "price": 749.99,
+      "category": "Electronics",
+      "description": "The Dell Inspiron 15 is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user77a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user77b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Bosch Power Tools Drill",
+      "price": 139.99,
+      "category": "Home Tools",
+      "description": "The Bosch Power Tools Drill is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user78a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user78b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Makita Cordless Drill",
+      "price": 129.99,
+      "category": "Home Tools",
+      "description": "The Makita Cordless Drill is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user79a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user79b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "KitchenAid Artisan Stand Mixer",
+      "price": 399.99,
+      "category": "Kitchen Utensils",
+      "description": "The KitchenAid Artisan Stand Mixer is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user80a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user80b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Cuisinart Stand Mixer",
+      "price": 299.99,
+      "category": "Kitchen Utensils",
+      "description": "The Cuisinart Stand Mixer is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user81a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user81b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "LG Smart LED TV",
+      "price": 1199.99,
+      "category": "Electronics",
+      "description": "The LG Smart LED TV is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user82a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user82b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Samsung QLED TV",
+      "price": 1399.99,
+      "category": "Electronics",
+      "description": "The Samsung QLED TV is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user83a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user83b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "DeLonghi Espresso Machine",
+      "price": 549.99,
+      "category": "Kitchen Utensils",
+      "description": "The DeLonghi Espresso Machine is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user84a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user84b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Breville Barista Express",
+      "price": 699.99,
+      "category": "Kitchen Utensils",
+      "description": "The Breville Barista Express is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user85a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user85b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Philips Hue White Ambiance",
+      "price": 59.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Philips Hue White Ambiance is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user86a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user86b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "LIFX Color Smart Bulb",
+      "price": 49.99,
+      "category": "Home accessories/ home decor",
+      "description": "The LIFX Color Smart Bulb is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user87a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user87b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Ikea NOT Floor Lamp",
+      "price": 29.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Ikea NOT Floor Lamp is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user88a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user88b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "name": "CB2 Arc Floor Lamp",
+      "price": 159.99,
+      "category": "Home accessories/ home decor",
+      "description": "The CB2 Arc Floor Lamp is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user89a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user89b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Wüsthof Classic Knife Set",
+      "price": 249.99,
+      "category": "Kitchen Utensils",
+      "description": "The Wüsthof Classic Knife Set is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user90a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user90b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Henckels Pro Knife Set",
+      "price": 199.99,
+      "category": "Kitchen Utensils",
+      "description": "The Henckels Pro Knife Set is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user91a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user91b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Nest Learning Thermostat",
+      "price": 249.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Nest Learning Thermostat is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user92a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user92b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Ecobee SmartThermostat",
+      "price": 229.99,
+      "category": "Home accessories/ home decor",
+      "description": "The Ecobee SmartThermostat is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.0,
+      "ratings": [
+        {
+          "user_id": "user93a",
+          "text": "Really dope, but could be better.",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user93b",
+          "text": "It's okay, nothing crazy about it.",
+          "star_rating": 3
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Amazon Echo Show",
+      "price": 129.99,
+      "category": "Electronics",
+      "description": "The Amazon Echo Show is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user94a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user94b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Google Nest Hub",
+      "price": 99.99,
+      "category": "Electronics",
+      "description": "The Google Nest Hub is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user95a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user95b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Nikon D3500 Camera",
+      "price": 449.99,
+      "category": "Electronics",
+      "description": "The Nikon D3500 Camera is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user96a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user96b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Canon PowerShot G7 X Mark III",
+      "price": 699.99,
+      "category": "Electronics",
+      "description": "The Canon PowerShot G7 X Mark III is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user97a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user97b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "T-fal Nonstick Fry Pan",
+      "price": 39.99,
+      "category": "Kitchen Utensils",
+      "description": "The T-fal Nonstick Fry Pan is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user98a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user98b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Circulon Nonstick Fry Pan",
+      "price": 49.99,
+      "category": "Kitchen Utensils",
+      "description": "The Circulon Nonstick Fry Pan is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 4.5,
+      "ratings": [
+        {
+          "user_id": "user99a",
+          "text": "Super dope product, highly recommend!",
+          "star_rating": 5
+        },
+        {
+          "user_id": "user99b",
+          "text": "Absolutely lit, exceeded my expectations.",
+          "star_rating": 4
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Dyson V11 Vacuum Cleaner",
+      "price": 599.99,
+      "category": "Home Tools",
+      "description": "The Dyson V11 Vacuum Cleaner is crafted with premium materials and state-of-the-art technology. It delivers excellent performance and outstanding reliability for everyday use.",
+      "rating": 2.0,
+      "ratings": [
+        {
+          "user_id": "user100a",
+          "text": "Meh, not as expected, kinda lame.",
+          "star_rating": 3
+        },
+        {
+          "user_id": "user100b",
+          "text": "Sucks big time, not worth the cash.",
+          "star_rating": 1
+        }
+      ]
+    }
+  ]
